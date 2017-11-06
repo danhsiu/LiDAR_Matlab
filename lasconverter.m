@@ -8,6 +8,8 @@ classdef lasdata < handle
     %   Default load only loads xyz coordinates. Additional variables can
     %   be loaded with the accessor functions get_(variable name).
     %
+    % 	
+    %
     %   Not much checks are made for the modified data. Feel free to modify 
     %   class member variables, but don't break your data. ;)
     %
